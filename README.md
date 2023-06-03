@@ -1,3 +1,5 @@
+QUERY questions: 
+
 mysql> INSERT INTO movies (movieTitle,runTime, genre, imdbScore, rating)
     ->   VALUES('Avengers Endgame', 182, 'Action',8.4, 'PG-13');
 Query OK, 1 row affected (0.01 sec)
